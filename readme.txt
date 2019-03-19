@@ -1,2 +1,2 @@
 I am learning Java
-I want to change jobs this year
+I wish I can change jobs this year
